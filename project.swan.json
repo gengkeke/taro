@@ -1,0 +1,8 @@
+{
+  "smartProgramRoot": "./dist",
+  "appid": "touristappid",
+  "compilation-args": {
+    "selected": 0,
+    "options": []
+  }
+}
